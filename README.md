@@ -1,5 +1,5 @@
 # chess
-python-chess library is used
+python-chess library is used.
 evaluate_board returns the evaluation for the pawn layout at the current time.
 Pawn evaluation is simple and based on their number and their weights are taken from  https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/.
 minimax functions implements minimax algorithm.
